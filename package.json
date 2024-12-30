@@ -1,6 +1,6 @@
 {
 	"name": "set-proto",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Robustly set the [[Prototype]] of an object",
 	"main": "index.js",
 	"exports": {
